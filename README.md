@@ -1,2 +1,2 @@
-# Basics
-CS5704 Software Engineering Basics Workshop
+# Ashrith Reddy Thukkaraju
+Hello Github!
