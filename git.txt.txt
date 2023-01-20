@@ -1,0 +1,12 @@
+1) int, cmd_worktree, int ac, const char **av, const char *prefix
+2) 1.5.2
+3) 100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f    tutorial.txt ... The command Provides content or type and size information for repository objects. Using tail helps us choose the object from the end.
+5) Update German translation for Git v2.31.0
+6) PAGER='head -n 80' git log --graph --oneline | grep "refactored"    
+
+Output: 
+| * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 94bcad7979 sequencer: change complete_action() to use the refactored functions
+| * | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | bbfe5302d5 implement test_might_fail using a refactored test_must_fail
+* | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | c18f75a1e9 send-email: add tests for refactored prompting
+
+
